@@ -1,0 +1,77 @@
+h1,p {
+	margin:0px 0px 0px 0px;
+}
+#entete {
+	background-image: url("../images/foret2.jpg");
+	background-color:none;
+	min-height:110px;
+	padding :1px 1px 1px 1px;
+}
+#main {
+	max-with:960px;
+}
+#menu  {
+	float:left;
+	width:240px;
+	min-height:300px;
+	background-color:#ccc;
+	padding :1px 1px 1px 1px;
+}
+#menu a {
+	text-decoration : none;
+	color: black;
+	list-style:none;
+}	
+#contenu {
+	margin-left:240px;
+	min-height:300px;
+	background-color:#ddd;
+	padding :1px 1px 1px 1px;
+}
+
+#footer {
+	background-color:#bbb;
+	min-height:100px;
+	padding :1px 1px 1px 1px;
+	background-image: url("../images/foret.jpg");
+}
+#menu2{
+	 padding: 0px ;
+}
+#menu2 li{
+	 background-color:  #696969 ;
+	 border: 1px solid black;
+	 padding: 5px 5px 5px 5px ;
+	 background-repeat: no-repeat;
+	 background-size: auto;
+	 list-style:none;
+	 margin : 5px;
+	 border-radius : 5px;
+}
+#menu2 li:hover, li:focus, li:active {
+	 background-color:  #DCDCDC ;
+	 border: 1px solid black;
+	 padding: 5px 70px 5px 70px ;
+	 background-repeat: no-repeat;
+	 background-size: auto;
+}
+#menu2 a{
+	 text-decoration : none;
+	 color: black;
+}
+#image1 {
+	display: inline-block;
+	vertical-align : middle;
+	margin-right : 10px;
+	display: block;
+}
+#text {
+	display: inline-block;
+	vertical-align :top;
+}
+#image2 {
+	display: block;
+}
+#image3 {
+	display: block;
+}
